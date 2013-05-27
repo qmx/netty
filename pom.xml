@@ -96,6 +96,7 @@
     <module>transport-udt</module>
     <module>handler</module>
     <module>example</module>
+    <module>sockjs</module>
     <module>testsuite</module>
     <module>testsuite-osgi</module>
     <module>microbench</module>
